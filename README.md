@@ -7,7 +7,7 @@
 
 **Project Title: Bird Sound Recognition**
 
-**Objective** 
+**Objective:** 
 The objective of this project is to identify Eastern African bird species by sound using signal processing techniques, with the aim of developing computational solution to process continuous audio data and recognize the species by their calls.
 
 **Background:** 
