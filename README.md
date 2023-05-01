@@ -3,7 +3,7 @@
 **Team Members:**
 * Pallapu Mohan Krishna 226150001 DSAI PhD 
 * Shania H 226150003 DSAI PhD
-* Avantika Sahu 216150102 DSAI PhD
+* Avantika Sahu 216150102 DSAI Ph
 
 **Project Title: Bird Sound Recognition**
 
